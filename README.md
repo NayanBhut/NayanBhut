@@ -28,6 +28,7 @@ Outside work I build the developer tools I was missing: a native macOS client fo
 | Project | What it is | Links |
 | :-- | :-- | :-- |
 | **Shipyard Connect for ASC** | Native macOS 15+ client for the App Store Connect API: TestFlight builds, release notes across 50 locales with a completeness check, beta groups, customer reviews and team resources. 37 merged pull requests in the public source. | [App Store](https://apps.apple.com/us/app/shipyard-connect-for-asc/id6820384178?mt=12) · [Source](https://github.com/NayanBhut/TestFlightReleaseNotes) |
+| **PipelineDeck: CI/CD Monitor** | Azure DevOps client for iPhone and iPad: projects and pipelines, searchable build logs, run control and release approvals. Built with [Siddharth Patel](https://github.com/patelsid1211). | [App Store](https://apps.apple.com/us/app/pipelinedeck-ci-cd-monitor/id6828979702) |
 | **JSON:API Lens** | Browser-based viewer and validator for JSON:API — recursive `included` expansion, 1.1 structural validation, resolved JSON export and a relationship graph. | [Live](https://nayanbhut.github.io/jsonapi-lens/) · [Source](https://github.com/NayanBhut/jsonapi-lens) |
 | **Azure Pipeline Mobile** | Unofficial Azure DevOps client for iOS and Android in React Native: project list, pipeline triggering and live build status. | [Source](https://github.com/NayanBhut/Azure-PipeLine-Mobile) |
 | **Bitrise Mobile** | Unofficial Bitrise client: multi-workspace app list, build control, custom workflow parameters. | [Source](https://github.com/NayanBhut/Bitrise-Mobile) |
@@ -40,6 +41,7 @@ Outside work I build the developer tools I was missing: a native macOS client fo
 | Under Armour ME | Lead iOS Developer | [App Store](https://apps.apple.com/ae/app/under-armour-me-shop-online/id1591394964) |
 | Nike ME | Senior iOS Developer | [App Store](https://apps.apple.com/ae/app/nike-sportswear-sneakers/id6444790147) |
 | Sun & Sand Sports | Senior iOS Developer | [App Store](https://apps.apple.com/us/app/sun-sand-sports-shop-online/id1163601891) |
+| PipelineDeck: CI/CD Monitor | iOS Developer, with Siddharth Patel | [App Store](https://apps.apple.com/us/app/pipelinedeck-ci-cd-monitor/id6828979702) |
 | Medznat · Trophy Cloud · Anco Turf | iOS Developer | [Medznat](https://apps.apple.com/in/app/medznat/id1111506408) · [Trophy Cloud](https://apps.apple.com/us/app/trophy-cloud/id1399027300) · [Anco Turf](https://apps.apple.com/au/app/anco-turf/id1477293063) |
 
 ## Toolkit
