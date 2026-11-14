@@ -31,7 +31,7 @@ Outside work I build the developer tools I was missing: a native macOS client fo
 | **JSON:API Lens** | Browser-based viewer and validator for JSON:API — recursive `included` expansion, 1.1 structural validation, resolved JSON export and a relationship graph. | [Live](https://nayanbhut.github.io/jsonapi-lens/) · [Source](https://github.com/NayanBhut/jsonapi-lens) |
 | **Azure Pipeline Mobile** | Unofficial Azure DevOps client for iOS and Android in React Native: project list, pipeline triggering and live build status. | [Source](https://github.com/NayanBhut/Azure-PipeLine-Mobile) |
 | **Bitrise Mobile** | Unofficial Bitrise client: multi-workspace app list, build control, custom workflow parameters. | [Source](https://github.com/NayanBhut/Bitrise-Mobile) |
-| **Read Along** | Chrome/Brave MV3 extension that reads any page aloud with word-level highlighting and auto-scroll. | [Source](https://github.com/NayanBhut/read-along) · [Site](https://nayanbhut.github.io/read-along-site/) |
+| **Read Along** | Chrome/Brave MV3 extension that reads any page aloud with word-level highlighting and auto-scroll. | [Chrome Web Store](https://chromewebstore.google.com/detail/read-along/daidbadgjkeambnjhaafphcbjcpngf) · [Site](https://nayanbhut.github.io/read-along-site/) |
 
 ## Shipped apps
 
