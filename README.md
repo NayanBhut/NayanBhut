@@ -1,67 +1,72 @@
-# Hi, I'm Nayan Bhut 👋
+# Nayan Bhut
 
-**Senior iOS Engineer** with **6.5+ years** of experience building high-performance mobile apps for major retail brands — **Nike ME**, **Under Armour ME**, and **Sun & Sand Sports**.
+**Senior iOS Engineer** — Swift, SwiftUI, UIKit · CI/CD · developer tooling
 
-## 📊 Impact at a Glance
+[Portfolio](https://nayanbhut.github.io) · [LinkedIn](https://www.linkedin.com/in/nayan-bhut-4318b199) · [Résumé (PDF)](https://nayanbhut.github.io/resume.pdf) · [Shipyard Connect on the Mac App Store](https://apps.apple.com/us/app/shipyard-connect-for-asc/id6820384178?mt=12)
 
-| Metric | Result |
-|---|---|
-| 📉 Crash rate reduction | **30%** across portfolio apps |
-| 📈 App responsiveness | **+40%** via caching & API optimization |
-| 🌐 Network calls | **−25%** through efficient strategies |
-| 🚀 Deployment time | **−50%** via CI/CD (fastlane + Bitrise) |
-| 🧠 Technical debt | **−35%** via code review & standards |
-| 🎯 Nike ME crash rate | **2.1% → 0.3%** |
-| ⚡ Catalog scrolling | **60 FPS** for 1000+ products |
-| 🛍️ SKU filtering | **10K+ SKUs** with instant results |
-| 📦 Production releases | **20+** with zero critical bugs |
-| 👥 Developers mentored | **5+** junior engineers |
+---
 
-## 🛠️ Tech Stack
+I ship iOS apps for retail brands with large catalogues and high traffic. For the last eight years that has meant Swift, UIKit and SwiftUI, careful performance work under Instruments, and release pipelines that make shipping boring.
 
-**Languages:** Swift, Objective-C, Shell, SQL, JavaScript
-**iOS:** UIKit, SwiftUI, Combine, CoreData, AVFoundation, CloudKit, APNS
-**Architecture:** MVC, MVVM, VIPER, Clean Swift
-**Networking:** REST, GraphQL, WebSockets, gRPC, JSON:API, Alamofire
-**CI/CD:** fastlane, Bitrise, Azure Pipelines, GitHub Actions, Jenkins, TestFlight
-**Infra:** Docker, AWS EC2, Unix/Linux
-**AI Tools:** Ollama, Claude, Cursor, Copilot, Kiro, MCP (Xcode, Azure, Figma)
+Currently Senior Software Engineer at **Brainvire Infotech**, leading iOS for **Nike ME**, **Under Armour ME** and **Sun & Sand Sports**.
 
-## 📱 Shipped Apps
+Outside work I build the developer tools I was missing: a native macOS client for the App Store Connect API, a JSON:API inspector, and mobile clients for Azure Pipelines and Bitrise.
 
-- [Under Armour ME](https://apps.apple.com/us/app/under-armour-me-shop-online/id1591394964) — Lead iOS Developer
-- [Nike ME](https://apps.apple.com/us/app/nike-sports-wear-sneakers/id6444790147) — Sr. iOS Developer
-- [Sun & Sand Sports](https://apps.apple.com/us/app/sun-sand-sports-shop-online/id1163601891) — Senior iOS Developer
-- [Medznat](https://apps.apple.com/in/app/medznat/id1111506408) · [Trophy Cloud](https://apps.apple.com/us/app/trophy-cloud/id1399027300) · [TFL Podcasts](https://itunes.apple.com/jp/app/tflpodcasts/id1466584200) · [Anco Turf](https://apps.apple.com/au/app/anco-turf/id1477293063)
+## Experience at a glance
 
-## 🔗 Open Source
+| | |
+| :-- | :-- |
+| **8+ years** | Swift and Objective-C, in production since 2018 |
+| **2.1% → 0.3%** | Nike ME crash rate, through Instruments profiling and defensive coding |
+| **60 FPS** | scrolling on catalogues of 1,000+ products |
+| **−50%** | deployment time with fastlane and Bitrise pipelines |
+| **20+** | production releases for Under Armour ME with no critical post-release bugs |
+| **5+** | developers mentored on MVVM, VIPER and review practice |
 
-- [Azure Pipeline Mobile](https://github.com/NayanBhut/Azure-PipeLine-Mobile) — React Native app for Azure Pipelines
-- [Bitrise Pipeline Mobile](https://github.com/NayanBhut/Bitrise-Mobile) — Multi-workspace Bitrise manager
-- [TestFlight Release Notes](https://github.com/NayanBhut/TestFlightReleaseNotes) — SwiftUI + App Store Connect API
-- [GitHub Actions](https://github.com/NayanBhut/Github_Actions) — CI/CD workflows (HCL)
-- [Vapor WebSocket Test](https://github.com/NayanBhut/Vapor_WebSocket_Test) — Server-side Swift
-- [JIRA-WorkLog](https://github.com/NayanBhut/JIRA-WorkLog) — Swift utility for JIRA work logs
-- [Vapor Test Application (Heroku)](https://github.com/NayanBhut/Vapor-Test-Application-Heroku) — Server-side Swift on Heroku
-- [Design Patterns (Swift)](https://github.com/NayanBhut/design_pattern) — iOS design pattern examples
-- [HTML DSA](https://github.com/NayanBhut/html-dsa) — Data structures & algorithms notes
+## Selected work
 
-## 📜 Certifications
+| Project | What it is | Links |
+| :-- | :-- | :-- |
+| **Shipyard Connect for ASC** | Native macOS 15+ client for the App Store Connect API: TestFlight builds, release notes across 50 locales with a completeness check, beta groups, customer reviews and team resources. 37 merged pull requests in the public source. | [App Store](https://apps.apple.com/us/app/shipyard-connect-for-asc/id6820384178?mt=12) · [Source](https://github.com/NayanBhut/TestFlightReleaseNotes) |
+| **JSON:API Lens** | Browser-based viewer and validator for JSON:API — recursive `included` expansion, 1.1 structural validation, resolved JSON export and a relationship graph. | [Live](https://nayanbhut.github.io/jsonapi-lens/) · [Source](https://github.com/NayanBhut/jsonapi-lens) |
+| **Azure Pipeline Mobile** | Unofficial Azure DevOps client for iOS and Android in React Native: project list, pipeline triggering and live build status. | [Source](https://github.com/NayanBhut/Azure-PipeLine-Mobile) |
+| **Bitrise Mobile** | Unofficial Bitrise client: multi-workspace app list, build control, custom workflow parameters. | [Source](https://github.com/NayanBhut/Bitrise-Mobile) |
+| **Read Along** | Chrome/Brave MV3 extension that reads any page aloud with word-level highlighting and auto-scroll. | [Source](https://github.com/NayanBhut/read-along) · [Site](https://nayanbhut.github.io/read-along-site/) |
 
-- [GitHub Actions for CI/CD DevOps Pipelines — Udemy](https://www.udemy.com/certificate/UC-1d06e26a-430c-4263-863d-2c0f4ac2eb5e/)
-- [AI For Developers With GitHub Copilot, Cursor AI & ChatGPT — Udemy](https://www.udemy.com/certificate/UC-708c1b5f-850d-42b3-8ce5-c5355e6a3534/)
-- [AWS: Block Storage, Object Storage, EBS, Snapshots, AMIs — Udemy](https://www.udemy.com/certificate/UC-375188a5-7e52-4bac-aa15-5c4c297fe815/)
-- [JPMorganChase — Software Engineering Job Simulation](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_6961f8de4b3bff447ae0c7a3_1768053858232_completion_certificate.pdf)
+## Shipped apps
 
-## 🎓 Education
+| App | Role | Store |
+| :-- | :-- | :-- |
+| Under Armour ME | Lead iOS Developer | [App Store](https://apps.apple.com/ae/app/under-armour-me-shop-online/id1591394964) |
+| Nike ME | Senior iOS Developer | [App Store](https://apps.apple.com/ae/app/nike-sportswear-sneakers/id6444790147) |
+| Sun & Sand Sports | Senior iOS Developer | [App Store](https://apps.apple.com/us/app/sun-sand-sports-shop-online/id1163601891) |
+| Medznat · Trophy Cloud · Anco Turf | iOS Developer | [Medznat](https://apps.apple.com/in/app/medznat/id1111506408) · [Trophy Cloud](https://apps.apple.com/us/app/trophy-cloud/id1399027300) · [Anco Turf](https://apps.apple.com/au/app/anco-turf/id1477293063) |
 
-**B.E. Information Technology** — Government Engineering College, Modasa (GTU), Gujarat, India (2014–2018)
+## Toolkit
 
-## 📄 Resume
+```text
+Language      Swift, Objective-C
+UI            SwiftUI, UIKit, AppKit, Catalyst, Auto Layout, SnapKit
+Concurrency   async/await, actors, Sendable, @MainActor, strict concurrency checking
+Architecture  MVVM, Clean Swift, VIPER
+Data          CoreData, SwiftData, CloudKit, SQLite, Keychain
+Networking    URLSession, Alamofire, REST, GraphQL, gRPC, JSON:API, WebSockets
+Testing       XCTest, XCUITest, TDD, Instruments (Time Profiler, Leaks)
+CI/CD         fastlane, Bitrise, GitHub Actions, Azure Pipelines, Jenkins, TestFlight
+AI tooling    MCP servers in Swift, Ollama, Claude, Cursor, GitHub Copilot
+Infra         Docker, AWS EC2, Oracle Cloud, Unix
+```
 
-📄 **[Online Resume](https://nayanbhut.github.io/resume/)** — hosted via GitHub Pages
+## Writing
 
-## 📫 Contact
+Case studies on the portfolio site:
 
-✉️ nayanbhut@live.com · nayanbhut989@gmail.com · 📱 +91 962-426-1239
-🔗 [LinkedIn](https://www.linkedin.com/in/nayan-bhut-4318b199) · [GitHub](https://github.com/NayanBhut)
+- [Shipyard Connect: shipping a Mac App Store tool for App Store Connect](https://nayanbhut.github.io/work/shipyard-connect/)
+- [A strict-concurrency and security audit of a SwiftUI app](https://nayanbhut.github.io/open-source/swift6-security-audit/)
+- [Reviewing every line of a 237k-character pull request](https://nayanbhut.github.io/open-source/pr-review-chunking/)
+
+## Contact
+
+[nayanbhut989@gmail.com](mailto:nayanbhut989@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nayan-bhut-4318b199) · [nayanbhut.github.io](https://nayanbhut.github.io)
+
+Ahmedabad, India · open to remote and relocation across India
