@@ -61,11 +61,15 @@ Infra         Docker, AWS EC2, Oracle Cloud, Unix
 
 ## Writing
 
-Case studies on the portfolio site:
+Blog posts and case studies on the portfolio site:
 
+- [JSON:API is not JSON: resolving relationships you cannot see](https://nayanbhut.github.io/blog/jsonapi-is-not-json/)
+- [Reviewing a 237k-character PR diff without truncation](https://nayanbhut.github.io/blog/reviewing-a-237k-character-pr-diff/)
 - [Shipyard Connect: shipping a Mac App Store tool for App Store Connect](https://nayanbhut.github.io/work/shipyard-connect/)
 - [A strict-concurrency and security audit of a SwiftUI app](https://nayanbhut.github.io/open-source/swift6-security-audit/)
 - [Reviewing every line of a 237k-character pull request](https://nayanbhut.github.io/open-source/pr-review-chunking/)
+
+[All writing →](https://nayanbhut.github.io/blog/)
 
 ## Contact
 
