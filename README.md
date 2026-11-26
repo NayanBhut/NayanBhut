@@ -34,6 +34,10 @@ Outside work I build the developer tools I was missing: a native macOS client fo
 | **Bitrise Mobile** | Unofficial Bitrise client: multi-workspace app list, build control, custom workflow parameters. | [Source](https://github.com/NayanBhut/Bitrise-Mobile) |
 | **Read Along** | Chrome/Brave MV3 extension that reads any page aloud with word-level highlighting and auto-scroll. | [Chrome Web Store](https://chromewebstore.google.com/detail/read-along/daidbadgjkeambnjhaafphcbjcpngf) · [Site](https://nayanbhut.github.io/read-along-site/) |
 
+## Open source contributions
+
+- **open-telemetry/opentelemetry-swift** · [PR #1307](https://github.com/open-telemetry/opentelemetry-swift/pull/1307) (merged) — `fix(URLSession)`: record `error.type` for stable HTTP error responses. Under stable HTTP semantic conventions, 4xx/5xx responses set `error.type` to the string status code and drop the redundant status description, with old-convention behaviour unchanged. Added tests for 200/404/500 and a regression test (+180/−5 across 8 files). Fixes [#1203](https://github.com/open-telemetry/opentelemetry-swift/issues/1203).
+
 ## Shipped apps
 
 | App | Role | Store |
