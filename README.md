@@ -27,7 +27,7 @@ Outside work I build the developer tools I was missing: a native macOS client fo
 
 | Project | What it is | Links |
 | :-- | :-- | :-- |
-| **Shipyard Connect for ASC** | Native macOS 15+ client for the App Store Connect API: TestFlight builds, release notes across 50 locales with a completeness check, beta groups, customer reviews and team resources. 37 merged pull requests in the public source. | [App Store](https://apps.apple.com/us/app/shipyard-connect-for-asc/id6820384178?mt=12) · [Source](https://github.com/NayanBhut/TestFlightReleaseNotes) |
+| **Shipyard Connect for ASC** | Native macOS 15+ client for the App Store Connect API: TestFlight builds, release notes across 50 locales with a completeness check, beta groups, customer reviews and team resources. | [App Store](https://apps.apple.com/us/app/shipyard-connect-for-asc/id6820384178?mt=12) |
 | **PipelineDeck: CI/CD Monitor** | Azure DevOps client for iPhone and iPad: projects and pipelines, searchable build logs, run control and release approvals. | [App Store](https://apps.apple.com/us/app/pipelinedeck-ci-cd-monitor/id6828979702) |
 | **JSON:API Lens** | Browser-based viewer and validator for JSON:API — recursive `included` expansion, 1.1 structural validation, resolved JSON export and a relationship graph. | [Live](https://nayanbhut.github.io/jsonapi-lens/) · [Source](https://github.com/NayanBhut/jsonapi-lens) |
 | **Azure Pipeline Mobile** | Unofficial Azure DevOps client for iOS and Android in React Native: project list, pipeline triggering and live build status. | [Source](https://github.com/NayanBhut/Azure-PipeLine-Mobile) |
