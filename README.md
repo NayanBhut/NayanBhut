@@ -36,6 +36,8 @@ Outside work I build the developer tools I was missing: a native macOS client fo
 
 ## Open source contributions
 
+- **neuml/txtai** · [PR #1692](https://github.com/neuml/txtai/pull/1692) (merged) — `IVFSparse.nprobe()` now holds the probe count at one or above, so a zero probe count can't scan no blocks. Fixes [#1691](https://github.com/neuml/txtai/issues/1691). (+21/−2)
+- **neuml/txtai** · [PR #1690](https://github.com/neuml/txtai/pull/1690) (merged) — `IVFSparse.nlist` now caps the cluster count at the training-set size, so a small index can't request more clusters than rows. Fixes [#1689](https://github.com/neuml/txtai/issues/1689). (+98/−75)
 - **open-telemetry/opentelemetry-swift** · [PR #1307](https://github.com/open-telemetry/opentelemetry-swift/pull/1307) (merged) — `fix(URLSession)`: record `error.type` for stable HTTP error responses. Under stable HTTP semantic conventions, 4xx/5xx responses set `error.type` to the string status code and drop the redundant status description, with old-convention behaviour unchanged. Added tests for 200/404/500 and a regression test (+180/−5 across 8 files). Fixes [#1203](https://github.com/open-telemetry/opentelemetry-swift/issues/1203).
 
 ## Shipped apps
